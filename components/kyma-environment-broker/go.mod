@@ -28,7 +28,7 @@ require (
 	github.com/lib/pq v1.10.5
 	github.com/machinebox/graphql v0.2.3-0.20181106130121-3a9253180225
 	github.com/matryer/is v1.4.0
-	github.com/pivotal-cf/brokerapi/v8 v8.2.1
+	github.com/pivotal-cf/brokerapi/v8 v8.2.2
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.12.1
 	github.com/sebdah/goldie/v2 v2.5.3
@@ -38,7 +38,7 @@ require (
 	github.com/testcontainers/testcontainers-go v0.13.0
 	github.com/vburenin/nsync v0.0.0-20160822015540-9a75d1c80410
 	github.com/vrischmann/envconfig v1.3.0
-	golang.org/x/mod v0.5.1
+	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4
 	golang.org/x/oauth2 v0.0.0-20220309155454-6242fa91716a
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.23.5
@@ -135,7 +135,7 @@ require (
 	go.opencensus.io v0.23.0 // indirect
 	golang.org/x/crypto v0.0.0-20220313003712-b769efc7c000 // indirect
 	golang.org/x/net v0.0.0-20220225172249-27dd8689420f // indirect
-	golang.org/x/sys v0.0.0-20220310020820-b874c991c1a5 // indirect
+	golang.org/x/sys v0.0.0-20220315194320-039c03cc5b86 // indirect
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/time v0.0.0-20220224211638-0e9765cccd65 // indirect
